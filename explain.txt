@@ -1,0 +1,7 @@
+1) absnuoma virtual = 0
+2) virtual destructor Nuoma.h
+3) int Nuoma::input_count = 0; main.h
+Nuoma.h prie private:
+static int input_count; statinis metodas getInputCount
+5) const
+7) Nuoma::Nuoma(const Nuoma &var) su init Nuoma.cpp

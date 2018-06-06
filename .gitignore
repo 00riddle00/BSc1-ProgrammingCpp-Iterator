@@ -1,0 +1,9 @@
+.idea/
+AbsNuoma.o
+ApartamentuNuoma.o
+Data.o
+Nuoma.o
+main.o
+cmake-build-debug/
+Prog
+.DS_STORE
